@@ -1,7 +1,7 @@
 ArduinoLED点阵显示屏小作业
 =====================
 
-> 组员：广美艺科 岑达庭，何雅琳，余彦禧
+> 组员：达庭 雅琳 彦禧
 
 # 序言
 
@@ -58,9 +58,7 @@ height="3.5426673228346455in"}
 
 -   两块面包板
 
--   购买链接
-
-<https://new.m.taobao.com/detail.htm?id=601125598796&price=38-899&sourceType=item&suid=30f2c20d-b702-47ab-82f0-c89e0a3e964f&shareUniqueId=19492954953&ut_sk=1.YiCYyuolfCkDAMUvNTeOfAeC_21646297_1672363063444.Copy.1&un=723ecfb424c3b5fb3f17511656f2f575&share_crt_v=1&un_site=0&spm=a2159r.13376460.0.0&sp_abtk=gray_1_code_simpleAndroid2&tbSocialPopKey=shareItem&sp_tk=Y2hVbWQ0bWllM0M%3D&bc_fl_src=share-104936900039786-2-1&cpp=1&shareurl=true&short_name=h.UkKj18g&bxsign=scdyttoLCH0z3x5Hr1lzJUKpyYTXXY4rV1rJrakWkrq8qTBJjx9fWOrjrdhKaKwjR9njZ-Ksr4EfzZJB_RZIvFPniGY7hxHwVUkD35nBD4QzDWQkm92cs2xBbS5wonRfcux&tk=chUmd4mie3C&app=weixin>
+-   [购买链接](https://new.m.taobao.com/detail.htm?id=601125598796&price=38-899&sourceType=item&suid=30f2c20d-b702-47ab-82f0-c89e0a3e964f&shareUniqueId=19492954953&ut_sk=1.YiCYyuolfCkDAMUvNTeOfAeC_21646297_1672363063444.Copy.1&un=723ecfb424c3b5fb3f17511656f2f575&share_crt_v=1&un_site=0&spm=a2159r.13376460.0.0&sp_abtk=gray_1_code_simpleAndroid2&tbSocialPopKey=shareItem&sp_tk=Y2hVbWQ0bWllM0M%3D&bc_fl_src=share-104936900039786-2-1&cpp=1&shareurl=true&short_name=h.UkKj18g&bxsign=scdyttoLCH0z3x5Hr1lzJUKpyYTXXY4rV1rJrakWkrq8qTBJjx9fWOrjrdhKaKwjR9njZ-Ksr4EfzZJB_RZIvFPniGY7hxHwVUkD35nBD4QzDWQkm92cs2xBbS5wonRfcux&tk=chUmd4mie3C&app=weixin)
 
 # 制作过程
 
