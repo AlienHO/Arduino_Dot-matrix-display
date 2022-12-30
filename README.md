@@ -12,9 +12,7 @@ ArduinoLED点阵显示屏小作业
 一个图案？
 
 还是为好朋友做一个简单节日祝福？
-
-![descript](vertopal_af579750c18c4c4b8a9c5d5290ca8ec1/media/image1.jpg){width="3.5251312335958005in"
-height="3.0234186351706036in"}
+<img src="https://user-images.githubusercontent.com/92968854/210032146-936cc48f-73f3-47d9-b20c-3993cfd14f93.jpg"width="100px">
 
 led点阵有很多尺寸，其中8\*8是最基础的，因为基础所以是Arduino初学者特别好的尝试对象。我的工具箱里有几个点阵，我一直想用它们做点什么。正好恰逢朋友生日，可以利用led点阵和蜂鸣器DIY一个装置。它带有显示内容和播放音乐的功能。接下来跟着我一起制作吧。
 
